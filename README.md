@@ -62,6 +62,6 @@ Add forecasting models for sales prediction.
 Integrate with real-time data sources for live monitoring.
 Include customer segmentation analysis for targeted marketing.
 
-8.Screnshots
+8. Screnshots
   Show that how dashboard look like:https://github.com/Prem-119/Sales-Analysis-Dashboard/blob/main/SalesDashboard.png
   
